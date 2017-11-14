@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=multi.module2.service.Module2AutoConfiguration
